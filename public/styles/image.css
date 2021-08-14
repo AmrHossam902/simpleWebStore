@@ -1,0 +1,15 @@
+
+div{
+    position: relative;
+}
+
+img {
+    display: block;
+    width: 10em;
+    height: 10em;
+
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    
+}
